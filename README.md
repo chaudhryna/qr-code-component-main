@@ -27,7 +27,7 @@ This is a screenshot of my solution.
 ### Links
 
 - Solution URL: [Add solution URL here](https://)
-- Live Site URL: [Add live site URL here](https://)
+- Live Site URL: [Add live site URL here](https://qr-code-chaudhryna.netlify.app/)
 
 ## My process
 
@@ -39,7 +39,7 @@ This is a screenshot of my solution.
 
 ### What I learned
 
-I need a lot more practice with Flexbox!
+I need a lot more practice with Flexbox and with Figma!
 
 ### Continued development
 
@@ -51,7 +51,7 @@ I want to work more on learning Figma and on using Flexbox.
 
 ## Author
 
-- Website - [Nancy Chaudhry](https://www.your-site.com)
+- Website - [Nancy Chaudhry](https://github.com/chaudhryna)
 - Frontend Mentor - [@chaudhryna](https://www.frontendmentor.io/profile/chaudhryna)
 
 
