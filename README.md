@@ -26,8 +26,8 @@ This is a screenshot of my solution.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://)
-- Live Site URL: [Add live site URL here](https://qr-code-chaudhryna.netlify.app/)
+- Solution URL: [GitHub repo](https://github.com/chaudhryna/qr-code-component-main)
+- Live Site URL: [QR Code](https://qr-code-chaudhryna.netlify.app/)
 
 ## My process
 
